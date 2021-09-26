@@ -1,0 +1,3 @@
+#*.important
+#**/important/1.rtf
+*.rtf
